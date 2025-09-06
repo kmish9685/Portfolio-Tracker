@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+.next
+out
+dist
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite
+*.db
+
+# Documentation
+README.md
+DEPLOYMENT_GUIDE.md
+Portfolio_Usecase_Assignment_BE_E60405B6D1.pdf
+Sample_Portfolio_BE_A41C6DA6FF.pdf
